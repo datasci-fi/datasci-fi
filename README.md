@@ -3,5 +3,3 @@
 <p align='center'>
 Its Data Sci-fi. A repo with amazing code of data science, ML and AI
 </p>
-
-<h1 align='center'><i>Stay awesome!</i></h1>
